@@ -4,7 +4,8 @@
 This Tableau dashboard provides insights into the sales and profit performance of a global level superstore. It is designed for managers and executives of the business and shows performance across countries, products and time.
 Dashboard Overview
 The Worldwide Executive Sales Dashboard consists of 4 visualisations as well as 3 KPI indicators, exploring the metrics of Sales and Profit. 
- 
+
+![Overview of the Dashboard.](Assets/Images/Dashboard Overview.png)
 Figure 1: Overview of the Dashboard.
 
 The components of the dashboard are described below:
