@@ -2,8 +2,9 @@
 
 ## Introduction
 This Tableau dashboard provides insights into the sales and profit performance of a global level superstore. It is designed for managers and executives of the business and shows performance across countries, products and time.
-This dashboard is built using pre-existing Superstore Data gathered from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) and covers the years of 2011-2014
-##Dashboard Overview
+This dashboard is built using pre-existing Superstore Data gathered from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) and covers the years of 2011-2014.
+
+## Dashboard Overview
 The Worldwide Executive Sales Dashboard consists of 4 visualisations as well as 3 KPI indicators, exploring the metrics of Sales and Profit. 
 
 ![Figure 1: Overview of the Dashboard.](Assets/Images/Dashboard-Overview.png)
